@@ -9,7 +9,7 @@ This is a personal repository of my miscellaneous data analysis projects
 	The goals and purpose for the project.   about what we need to accomplish, why we selected this analysis project, and any challenges working through the project.
 
 ## Data understanding
-	Explain your data sources and why you chose the particular data sets that you did. You can also discuss additional enhancements or analysis that you want to perform in the future.
+	data sources and choice of the  data sets. n/ additional enhancements or analysis that you want to perform in the future.
 
 ## Screenshots of visualizations/ Results
 
